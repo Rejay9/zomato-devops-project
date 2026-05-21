@@ -4,7 +4,8 @@ metadata:
   name: zomato-deployment
   namespace: default
 spec:
-  replicas: 2
+  replicas: 3
+
   selector:
     matchLabels:
       app: zomato
