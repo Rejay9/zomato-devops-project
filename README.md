@@ -52,3 +52,4 @@ on AWS EKS with a complete CI/CD pipeline.
 | Name | Role |
 |---|---|
 | Rejay | DevOps Engineer |
+# Day 7 - SonarQube + Trivy added to pipeline
